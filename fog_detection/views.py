@@ -27,7 +27,7 @@ def home(request):
         print("TensorFlow version:", tf.__version__)
 
         # Load the entire model (including architecture and weights)
-        model = load_model('C:/Users/syamp/Desktop/fog_detection/fog_detection_project/keras_model.h5')  
+        model = load_model('C:/Users/syamp/Desktop/Fog-Detection/keras_model.h5')  
 
         total_fog_percetage = []
 
