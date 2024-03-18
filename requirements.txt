@@ -1,0 +1,6 @@
+Django==4
+TensorFlow==2.4.0
+Keras==2.4.3
+opencv-python==4.5.1.48
+numpy>=1.19.5
+Pillow
